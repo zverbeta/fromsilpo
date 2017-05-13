@@ -1,0 +1,19 @@
+{
+  "name": "fromsilpobot",
+  "version": "0.0.1",
+  "description": "Good morning spam",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "is": "^3.2.1",
+    "lowdb": "^0.16.2",
+    "telegraf": "^3.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shutko.yaroslav@gmail.com",
+  "license": "MIT"
+}
